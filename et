@@ -1,0 +1,4 @@
+.find_by not found, maybe you meant:
+
+Bundler::Thor::Util::find_by_namespace
+Thor::Util::find_by_namespace
